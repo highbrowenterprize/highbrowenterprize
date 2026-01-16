@@ -58,7 +58,7 @@ From **academic writing and research support**, to **travel consulting and visa 
 
 <td width="33%" align="center">
 
-<img src="https://www.highbrowmedia.tech/ogimage.png" width="100%" />
+<img src="/assets/highbrow_media_ogimage.png" width="100%" />
 
 ### 📊 Highbrow Media
 **Digital Marketing & Growth Agency**
