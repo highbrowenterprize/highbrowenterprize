@@ -77,7 +77,7 @@ From **academic writing and research support**, to **travel consulting and visa 
 
 <td width="33%" align="center">
 
-<img src="https://via.placeholder.com/1200x630?text=Highbrow+Travels+%26+Tours" width="100%" />
+<img src="/assets/highbrow.png" width="100%" />
 
 ### ✈️ Highbrow Travels & Tours
 **Travel, Visa & Study Abroad Services**
