@@ -3,7 +3,7 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://highbrowresearch.com/higbrow-og.png" alt="Highbrow Enterprize Banner" width="100%" />
+  <img src="https://github.com/highbrowenterprize/highbrowenterprize/blob/main/assets/highbrow-enterprize.png" alt="Highbrow Enterprize Banner" width="100%" />
 </p>
 
 <h1 align="center">Highbrow Enterprize</h1>
