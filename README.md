@@ -39,7 +39,7 @@ From **academic writing and research support**, to **travel consulting and visa 
 <tr>
 <td width="33%" align="center">
 
-<img src="https://highbrowresearch.com/higbrow-og.png" width="100%" />
+<img src="/assets/highbrow_research-about.jpg" width="100%" />
 
 ### 🎓 Highbrow Research
 **Academic Writing & Research Services**
